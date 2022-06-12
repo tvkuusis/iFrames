@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Pickable
+  - Lethal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Enemy
+  - Pickup
+  - ActivationZone
+  - Parallax
+  - Backwall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 544384979
+    locked: 0
+  - name: Midground
+    uniqueID: 4183777361
+    locked: 0
+  - name: Player
+    uniqueID: 1067932259
+    locked: 0
+  - name: Foreground
+    uniqueID: 613089635
+    locked: 0
